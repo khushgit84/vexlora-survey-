@@ -1,0 +1,6 @@
+{
+  "name": "Vexlora Feedback & Needs Survey",
+  "description": "Comprehensive customer problem discovery and suggestions survey connecting user responses to vexloraindia@gmail.com, Google Sheets, and Google Forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
